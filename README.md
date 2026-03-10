@@ -23,8 +23,6 @@ Pick one. Each folder contains a full description, context, and input files.
 |---|---|
 | [**WhatsApp Lead Intake Bot**](./whatsapp-lead-intake/) | Build a WhatsApp bot that qualifies insurance leads automatically so brokers never miss a client |
 | [**AI Policy Q&A Service**](./policy-qa/) | Build a Q&A service that answers client questions grounded in their policy document — without hallucinating |
-| [**WhatsApp Data Fetcher**](./data-fetcher/) | Build a service that reads messages from a WhatsApp group and stores them in a database |
-
 ---
 
 We do not expect you to complete every feature or handle every edge case. We do expect you to have thought through the full picture and be able to speak to it. Play to your strengths.
