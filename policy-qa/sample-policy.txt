@@ -1,0 +1,165 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  BRADESCO SEGURO
+  RESIDENCIAL SOB MEDIDA APARTAMENTO
+
+  Apólice, Especificação do Seguro e Condições Gerais
+  MARINA COSTA FERREIRA
+  Apólice 028731
+
+  615-028731-00421 SMB 10/09/2025
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  BRADESCO AUTO/RE COMPANHIA DE SEGUROS
+  CNPJ 92.682.038/0001-00
+
+
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  APÓLICE DE SEGURO
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Seguradora
+  BRADESCO AUTO/RE COMPANHIA DE SEGUROS
+  Código: 531-2
+  Sucursal: PINHEIROS MERCADO
+  Código: 615
+
+  DADOS DA APÓLICE
+  Apólice: 028731
+  Proposta: 41288654
+  Data da Emissão: 10/09/2025
+  Cód. Ramo SUSEP: 0114
+  Ramo SUSEP: COMPREENSIVO RESIDENCIAL
+  Cód. Ramo Seg.: 0927
+  Ramo Seguradora: COMPREENSIVO RESIDENCIAL
+  Limite Máximo de Garantia da Apólice (R$): 210.000,00
+  Vigência do seguro: das 24:00 horas do dia 10/09/2025
+                     às 24:00 horas do dia 10/09/2026
+  Cosseguro: NÃO
+
+  DADOS DO SEGURADO
+  Nome: MARINA COSTA FERREIRA
+  Endereço de Correspondência: RUA DAS ACÁCIAS
+  Número: 420
+  Complemento: APT 82
+  Bairro: PINHEIROS
+  Cidade: SÃO PAULO
+  UF: SP
+  CEP: 05422-010
+  DDD: 011
+  Telefone: 991234567
+
+  CÁLCULO DO PRÊMIO
+  DEMONSTRATIVO DE PRÊMIO EM R$
+  Prêmio Tarifa:                    273,28
+  Desconto:                              —
+  Adicional de Fracionamento:            —
+  Custo de Emissão:                      —
+  IOF:                               20,17
+  TOTAL:                            293,45
+
+  DADOS DE COBRANÇA
+  Banco Cobrador: BANCO BRADESCO S.A.
+  Forma de Pagamento: CARTÃO DE CRÉDITO MASTERCARD
+                      **** **** **** 4521
+  Parcelamento: CONFORME FATURA DO CARTÃO DE CRÉDITO
+                EM 02 PARCELAS
+
+  DADOS DO CORRETOR
+  Corretor: SEGURA CORRETORA DE SEGUROS LTDA
+  Código SUSEP: 00000202008241
+  Código CPD: 436523
+  Inspetoria: 018
+
+
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ESPECIFICAÇÃO DO LOCAL DE RISCO Nº 1
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Endereço: RUA DAS ACÁCIAS, 420, APT 82
+  Bairro: PINHEIROS
+  Cidade: SÃO PAULO
+  UF: SP
+  Rubrica: 379.031
+  Valor em Risco Declarado de Danos Materiais (R$): 100.000,00
+  Tipo de Residência: APARTAMENTO (PAVIMENTO SUPERIOR)/HABITUAL
+
+  COBERTURAS CONTRATADAS
+
+  ┌─────────────────────────────────┬────────┬───────────────┬──────────┬─────────┬──────────────────┐
+  │ Cobertura                       │ Código │ LMGCC (R$)    │ Pos (%   │ Mín(R$) │ Prêmio Líq. (R$) │
+  │                                 │        │               │ Prejuízo)│         │                  │
+  ├─────────────────────────────────┼────────┼───────────────┼──────────┼─────────┼──────────────────┤
+  │ BÁSICA (*)                      │   00   │   100.000,00  │   10%    │  460,00 │           139,09 │
+  │ DANOS ELÉTRICOS                 │   04   │    20.000,00  │   10%    │  550,00 │            19,42 │
+  │ ROUBO                           │   05   │    30.000,00  │    —     │   NÃO HÁ│            14,36 │
+  │ VIDROS, MÁRMORES, GRANITOS E    │   07   │    10.000,00  │   10%    │  150,00 │            37,37 │
+  │   PORCELANATO                   │        │               │          │         │                  │
+  │ RESPONSABILIDADE CIVIL FAMILIAR │   12   │    30.000,00  │    —     │   NÃO HÁ│            13,67 │
+  │ RUPTURA DE TUBULAÇÕES           │   33   │    20.000,00  │   10%    │  500,00 │            49,37 │
+  └─────────────────────────────────┴────────┴───────────────┴──────────┴─────────┴──────────────────┘
+
+  Somatório dos Limites Máximos de Garantia das Coberturas (R$): 210.000,00
+  Prêmio Tarifa (R$): 273,28
+
+  (*) Limite Máximo de Garantia por Cobertura Contratada
+  (A) INCÊNDIO, QUEDA DE RAIO, EXPLOSÃO OU IMPLOSÃO, RECOMPOSIÇÃO DE
+      DOCUMENTOS, QUEDA DE FUMÁÇA, QUEDA DE AERONAVES E IMPACTO DE
+      VEÍCULOS = FRANQUIA MÍNIMA C/MÍN. DE R$ 460,00
+
+  QAR - Questionário de Avaliação de Risco
+  A RESIDÊNCIA POSSUI ESCRITÓRIO PARA EXERCÍCIO DE ATIVIDADE PROFISSIONAL? Não
+
+  Assistência — Plano Contratado: PLANO ECO ESSENCIAL PLUS
+
+
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ESPECIFICAÇÃO DO LOCAL DE RISCO Nº 1 — Declaração
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ratificam-se os termos das seguintes condições e cláusulas anexas:
+  Condições Gerais do Bradesco Seguro Residencial Sob Medida Apartamento.
+  Cobertura(s): Básica, 04, 05, 07, 12, 33.
+  Cláusula(s) Particular(es): 119, 122, 219.
+
+  A sociedade seguradora supra caracterizada, a seguir denominada "COMPANHIA",
+  tendo em vista as declarações constantes da proposta de seguro acima indicada,
+  obriga-se a indenizar ou reembolsar ao segurado, mediante o recebimento do
+  prêmio acima convencionado de acordo com as cláusulas específicas desta
+  apólice e com as particulares e gerais da proposta acima citada, as perdas e
+  danos materiais, bem como reembolsá-los das reparações pecuniárias que
+  legalmente lhe forem imputadas, tudo decorrente dos riscos assumidos e
+  causados aos bens e objetos discriminados na referida proposta.
+
+  O Pedido de Cancelamento, observadas as Condições Gerais do Seguro, será
+  assegurado ao Cliente no mesmo canal de contratação.
+
+
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  OBSERVAÇÕES
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  PROCESSO SUSEP N. 15414.901163/2017-73
+
+  Atendimento ao Segurado Bradesco Seguros:
+  Central de Relacionamento: 4004-2757 (capitais e regiões metropolitanas)
+                             0800 701 2757 (demais localidades)
+  SAC: 0800 727 9966
+  SAC - Deficiência Auditiva ou de Fala: 0800 701 2762
+  Ouvidoria: 0800 701 7000
+
+  As condições contratuais/regulamento deste produto protocolizadas pela
+  sociedade/entidade junto à SUSEP poderão ser consultadas no endereço
+  eletrônico www.susep.gov.br, de acordo com o número de processo
+  constante da apólice/proposta.
+
+  Lei 12741/12 sobre tributos incidentes. PIS: 0,65%; COFINS: 4,00%;
+  IOF: entre 0% e 7,38%.
+
+  SÃO PAULO, ESTADO DE SP AOS 10 DIAS DO MÊS DE SETEMBRO DE 2025
+
+  Companhia Emissora:
+  Bradesco Auto/RE Companhia de Seguros
+  Av. Rio de Janeiro, 555 — Rio de Janeiro, RJ
+  CNPJ 92.682.038/0001-00 — Código 531-2
+
+  ---

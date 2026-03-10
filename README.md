@@ -1,22 +1,30 @@
-# Data fetcher Segura Challenge
+# Segura Engineering Challenge
 
-## Contexto
-A equipe de desenvolvimento da Segura necessita diariamente integrar com aplicações de terceiros e analisar seus dados. As vezes, essa integrações não são tão simples... 👽
+Segura is an insurtech that partners with carriers and helps insurance brokers in Brazil increase their production — through high quality onboarding and support and software that makes brokers faster, smarter, and more client-focused.
 
-## Objetivo
-Criar um programa em Python que acesse um grupo no Whatsapp e obtenha o máximo de mensagens possíveis e armazene em um banco de dados.
+This challenge is designed to give you a realistic slice of the kinds of problems we work on. There's no single right answer. We're looking for how you think, what you prioritize, and how clearly you can explain your decisions.
 
-## Entregáveis
-- Consumir as mensagens de um grupo do Whatsapp. Qualquer grupo (pode ser um grupo só com você etc).
-- Armazenar essas mensagens em um banco de dados.
+---
 
-## Bonus
-- A aplicação poder ser executada utilizando docker.
-- Utilizar Postgresql como banco de dados.
+## How to Submit
 
-## Sugestões
-- Utilizar a ferramenta Waha (https://waha.devlike.pro/) para facilitar a sua integração com o Whatsapp.
-- Utilizar a Flask ou FastApi para criação de webhooks que recebem as mensagens.
+1. Fork this repository and make it **private**
+2. Implement your chosen challenge 
+3. Add `@LuccaBuffara` as a collaborator so we can view your repo
+4. Email `people@sejasegura.com.br` with the link to your repository and any notes you'd like to share
 
-## Entrega
-Ao finalizar o desafio envie um email para people@sejasegura.com.br com o repositorio da sua submissão
+---
+
+## The Challenges
+
+Pick one. Each folder contains a full description, context, and input files.
+
+| Challenge | One-liner |
+|---|---|
+| [**WhatsApp Lead Intake Bot**](./whatsapp-lead-intake/) | Build a WhatsApp bot that qualifies insurance leads automatically so brokers never miss a client |
+| [**AI Policy Q&A Service**](./policy-qa/) | Build a Q&A service that answers client questions grounded in their policy document — without hallucinating |
+| [**WhatsApp Data Fetcher**](./data-fetcher/) | Build a service that reads messages from a WhatsApp group and stores them in a database |
+
+---
+
+We do not expect you to complete every feature or handle every edge case. We do expect you to have thought through the full picture and be able to speak to it. Play to your strengths.

@@ -1,0 +1,34 @@
+ These are sample questions that Marina's clients commonly ask about their policies.
+  They range from straightforward to ambiguous. Use these to test your Q&A service.
+
+  ──────────────────────────────────────────────────────
+  Question 1 (straightforward — answer is in the policy)
+  ──────────────────────────────────────────────────────
+  "Meu apartamento tem cobertura contra roubo? Qual é o valor máximo que
+  posso receber em caso de roubo?"
+
+  ──────────────────────────────────────────────────────
+  Question 2 (requires combining two clauses)
+  ──────────────────────────────────────────────────────
+  "Minha geladeira queimou por causa de uma variação de tensão. Estou
+  coberto? Se sim, tem franquia?"
+
+  ──────────────────────────────────────────────────────
+  Question 3 (answer is NOT in this policy — tests "I don't know")
+  ──────────────────────────────────────────────────────
+  "Se eu precisar usar a assistência 24h para chamar um encanador, quantas
+  vezes por ano posso acionar esse serviço?"
+
+  ──────────────────────────────────────────────────────
+  Question 4 (ambiguous — requires judgment)
+  ──────────────────────────────────────────────────────
+  "Um cano estourou no apartamento de cima e alagou o meu teto e o meu
+  piso de porcelanato. Quais coberturas se aplicam?"
+
+  ──────────────────────────────────────────────────────
+  Question 5 (answer might require the Condição Geral from SUSEP)
+  ──────────────────────────────────────────────────────
+  "Meu vizinho entrou com processo contra mim alegando que uma infiltração
+  do meu apartamento danificou o dele. A cobertura de Responsabilidade
+  Civil Familiar cobre esse tipo de situação? Há algum valor mínimo de
+  dano para acionar?"

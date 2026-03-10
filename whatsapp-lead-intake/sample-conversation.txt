@@ -1,0 +1,72 @@
+ Carlos (corretor): Oi! Tudo bem? A Ana me passou seu contato, disseram que você
+  quer fazer um seguro pro seu carro. Sou o Carlos, corretor de seguros. Pode falar!
+
+  Cliente: Oi Carlos! Isso mesmo, quero cotar um seguro
+
+  Carlos (corretor): Ótimo! Vou precisar de algumas informações pra montar a cotação.
+  Pode ser?
+
+  Cliente: Claro, pode perguntar
+
+  Carlos (corretor): Vamos começar pelo básico 😊 Qual seu nome completo?
+
+  Cliente: Fernanda Oliveira Santos
+
+  Carlos (corretor): E seu CPF?
+
+  Cliente: 321.654.987-00
+
+  Carlos (corretor): Perfeito. Data de nascimento?
+
+  Cliente: 14/07/1990
+
+  Carlos (corretor): É casada, solteira...?
+
+  Cliente: Solteira
+
+  Carlos (corretor): Tem alguém com menos de 26 anos morando na mesma casa que você
+  e que possa usar o carro?
+
+  Cliente: Não, moro sozinha
+
+  Carlos (corretor): Ótimo, isso pode influenciar no valor. Qual seu e-mail?
+
+  Cliente: fernanda.santos@gmail.com
+
+  Carlos (corretor): E seu celular com DDD?
+
+  Cliente: (11) 98765-4321
+
+  Carlos (corretor): Qual o CEP de onde o carro fica guardado à noite?
+  Pode ser garagem de casa, trabalho, onde costuma deixar
+
+  Cliente: 04538-133
+
+  Carlos (corretor): Agora o carro — qual a placa?
+
+  Cliente: ABC-1D23
+
+  Carlos (corretor): Você tem o CRLV em mãos? Se conseguir tirar uma foto e mandar
+  fica mais fácil pra eu pegar o chassi e confirmar os dados do veículo
+
+  Cliente: [foto do CRLV]
+
+  Carlos (corretor): Perfeito, consegui o chassi aqui. O carro é um Hyundai HB20
+  2021/2022, câmbio automático, 4 portas — está correto?
+
+  Cliente: Isso mesmo!
+
+  Carlos (corretor): Esse seguro é novo ou é renovação de alguma apólice que você
+  já tem?
+
+  Cliente: É novo, nunca tive seguro
+
+  Carlos (corretor): Entendido! Só mais uma coisa — você quer cobertura completa
+  (compreensivo) ou só cobertura para terceiros?
+
+  Cliente: Completa, com cobertura contra roubo e furto
+
+  Carlos (corretor): Perfeito Fernanda, já tenho tudo que preciso 👍 Vou buscar as
+  melhores opções e te mando a cotação até amanhã. Qualquer dúvida estou por aqui!
+
+  Cliente: Obrigada Carlos!
