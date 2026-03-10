@@ -25,4 +25,4 @@ Pick one. Each folder contains a full description, context, and input files.
 | [**AI Policy Q&A Service**](./policy-qa/) | Build a Q&A service that answers client questions grounded in their policy document — without hallucinating |
 ---
 
-We do not expect you to complete every feature or handle every edge case. We do expect you to have thought through the full picture and be able to speak to it. Play to your strengths.
+We do not expect you to complete every feature or handle every edge case but we expect you to have thought through the full picture and be able to speak to it.
