@@ -1,10 +1,13 @@
 # Challenge: WhatsApp Lead Intake Bot
 
-## Context
-
+## Problem 
 One of the biggest challenges brokers face is capturing new leads efficiently — a potential client sends a WhatsApp message asking about car insurance, and the broker either responds hours later or loses the lead entirely.
 
-The goal is to automate this: when a potential client messages a broker's number, a bot guides them through a short conversation, collects the key information needed for a quote, and makes that lead available to the broker immediately. Today this is done manually. The goal is to give a single broker the ability to capture and qualify leads 24/7 without any manual effort on their end.
+## Context
+
+ Segura is building a WhatsApp-native experience for brokers. The first step is automating lead intake: when a potential client messages a broker's WhatsApp number, a bot should guide them through a short conversation, collect the key information needed for a quote, and make that lead available to the broker immediately.
+
+Today this is done manually. The goal is to give a single broker the ability to capture and qualify leads 24/7 without any manual effort on their end.
 
 ## Objective
 
@@ -40,7 +43,7 @@ Use these as reference for tone, flow, and data structure — or don't. How you 
 - A short README explaining your approach and decisions (see below)
 - A demo: Loom or short video (under 5 min) showing the bot in action
 
-**Want to stand out?** Build a simple UI for Carlos to review his leads. We're not looking for visual polish — we're looking for product instinct. What does Carlos actually need to see?
+**Want to stand out?** Build a simple UI for Carlos to review his leads. We're not looking for visual polish — we're looking for product instinct. What does Carlos actually need to see? How should he act on this information? 
 
 ## README
 

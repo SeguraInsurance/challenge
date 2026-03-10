@@ -1,0 +1,41 @@
+{
+    "id": "lead_001",
+    "created_at": "2024-03-15T14:32:00Z",
+    "status": "novo",
+    "source": "indicacao",
+    "referred_by": "Ana Lima",
+    "broker": {
+      "id": "broker_carlos_01",
+      "name": "Carlos Mendes",
+      "guid_servico": "3378d306-4b33-4938-bdb3-c2e281f91e09"
+    },
+    "client": {
+      "name": "Fernanda Oliveira Santos",
+      "cpf": "321.654.987-00",
+      "gender": "F",
+      "date_of_birth": "1990-07-14",
+      "marital_status": "2",
+      "has_young_driver_in_household": false,
+      "email": "fernanda.santos@gmail.com",
+      "phone": "(11) 98765-4321"
+    },
+    "vehicle": {
+      "plate": "ABC-1D23",
+      "chassis": "9BWZZZ377VT004251",
+      "make": "Hyundai",
+      "model": "HB20",
+      "year_manufacture": 2021,
+      "year_model": 2022,
+      "doors": 4,
+      "transmission": "2",
+      "fipe_code": "013249-4",
+      "cep_pernoite": "04538-133"
+    },
+    "insurance": {
+      "flag_renovacao": "0",
+      "seguradora_atual": null,
+      "coverage_type": "compreensivo",
+      "notes": "Cliente solicitou cobertura contra roubo e furto. Mora sozinha, sem condutor jovem."
+    },
+    "follow_up_by": "2024-03-16T18:00:00Z"
+  }

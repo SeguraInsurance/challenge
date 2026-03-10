@@ -1,6 +1,6 @@
 # Segura Engineering Challenge
 
-Segura is an insurtech that partners with carriers and helps insurance brokers in Brazil increase their production — through software that makes brokers faster, smarter, and more client-focused.
+Segura is an insurtech that partners with carriers and helps insurance brokers in Brazil increase their production — through high quality onboarding and support and software that makes brokers faster, smarter, and more client-focused.
 
 This challenge is designed to give you a realistic slice of the kinds of problems we work on. There's no single right answer. We're looking for how you think, what you prioritize, and how clearly you can explain your decisions.
 
