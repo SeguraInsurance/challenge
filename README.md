@@ -11,7 +11,7 @@ This challenge is designed to give you a realistic slice of the kinds of problem
 1. Fork this repository and make it **private**
 2. Implement your chosen challenge 
 3. Add `@LuccaBuffara` as a collaborator so we can view your repo
-4. Email `people@sejasegura.com.br` with the link to your repository and any notes you'd like to share
+4. Email `people@segura.ai` with the link to your repository and any notes you'd like to share
 
 ---
 
