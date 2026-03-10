@@ -27,10 +27,13 @@ Use these to build and test your solution. You don't need to handle arbitrary or
 
 ## Constraints
 
-- Backend in Python (FastAPI preferred)
-- LLM of your choice — OpenAI, Anthropic, or open model. Keep costs minimal; we'll reimburse up to $10 if needed
-- `POST /ask` should accept a question and return an answer
-- No authentication required
+Tech Stack: You are free to choose your preferred stack, though Python (FastAPI) is highly preferred.
+
+LLM Selection: Use any LLM of your choice (OpenAI, Anthropic, Gemini, or open-source). Please prioritize cost-efficiency; we will reimburse usage up to $10 if necessary.
+
+Endpoint: A POST /ask endpoint that accepts a question and returns an answer.
+
+Security: No authentication is required for this implementation.
 
 ## Deliverables
 
