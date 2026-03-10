@@ -31,11 +31,13 @@ We've included:
 Use these as reference for tone, flow, and data structure — or don't. How you interpret and use them is part of what we're evaluating.
 
 ## Constraints
+Tech Stack: You are free to choose your preferred stack, though Python with FastAPI is preferred.
 
-- Backend in Python (FastAPI preferred)
-- You can use the WhatsApp Cloud API, Twilio Sandbox, or simulate the webhook with a plain POST endpoint — your call, but justify it
-- The bot flow should be completable in under 5 messages from the client's side
-- No authentication required
+Messaging Integration: You may use the WhatsApp Cloud API, Twilio Sandbox, or simply simulate the webhook with a plain POST endpoint. Please provide a brief justification for your choice.
+
+Conversation Flow: The bot interaction should be concise, completing the full journey in 5 messages or fewer from the client’s side.
+
+Security: No authentication is required for this implementation
 
 ## Deliverables
 
